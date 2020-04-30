@@ -8,5 +8,6 @@ The texture pack is 32 colors only, more exactly the ones in the [Zughy32 palett
 ![Soothing 32](screenshot.png)  
 
 ### Supported mods
+* Carts
 * Default
 * Flowers
