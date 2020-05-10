@@ -12,3 +12,4 @@ The texture pack is 32 colors only, more exactly the ones in the [Zughy32 palett
 * Default
 * Doors
 * Flowers
+* Wool
