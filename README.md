@@ -7,10 +7,23 @@ The texture pack is 32 colours only, more exactly the ones in the [Zughy32 palet
 
 ![Soothing 32](screenshot.png)  
 
-### Supported mods
+### Official supported mods
 * Bucket
 * Carts
 * Default
 * Doors
 * Flowers
 * Wool
+
+### Submitted by contributors yet still untouched by me
+* Beds
+* Bones
+* Butterflies
+* Dye
+* Fire
+* Fireflies
+* Screwdriver
+* Stairs
+* Tnt
+* Vessels
+* Xpanes
