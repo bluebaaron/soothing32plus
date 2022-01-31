@@ -15,7 +15,7 @@ The texture pack is 32 colours only, more exactly the ones in the [Zughy32 palet
 * Flowers
 * Wool
 
-### Submitted by contributors yet still untouched by me
+### Submitted by contributors (that maybe someday I'll tweak)
 * Beds
 * Bones
 * Butterflies
