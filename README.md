@@ -9,6 +9,7 @@ The texture pack is 32 colours only, more exactly the ones in the [Zughy32 palet
 
 ### Official supported mods
 * Beds
+* Bones
 * Bucket
 * Carts
 * Default
@@ -17,7 +18,6 @@ The texture pack is 32 colours only, more exactly the ones in the [Zughy32 palet
 * Wool
 
 ### Submitted by contributors (that maybe someday I'll tweak)
-* Bones
 * Butterflies
 * Dye
 * Fire
