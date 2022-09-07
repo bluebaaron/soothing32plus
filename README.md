@@ -27,3 +27,8 @@ The texture pack is 32 colours only, more exactly the ones in the [Zughy32 palet
 * Tnt
 * Vessels
 * Xpanes
+
+---
+
+#### RE: Why can't I contribute?
+Contributions are currently closed and they'll probably remain like so. I already manage enough projects to also review your pixel arts, and I'm fine with the amount of mods Soothing 32 supports. If you feel the urge to add more mods, please fork it :P
