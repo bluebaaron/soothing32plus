@@ -6,25 +6,23 @@ Note: The texture pack consists of just 32 colors, which can be found in the <a 
 
 ![Soothing 32](screenshot.png)  
 
-### Official Supported Mods
+### Supported Mods
 * Beds
 * Bones
 * Bucket
+* Butterflies
 * Carts
 * Default
 * Doors
-* Flowers
-* Wool
-
-### Submitted by Contributors
-* Butterflies
 * Dye
 * Fire
 * Fireflies
+* Flowers
 * Screwdriver
 * Stairs
 * Tnt
 * Vessels
+* Wool
 * Xpanes
 
 ---
