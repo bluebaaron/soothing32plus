@@ -28,4 +28,4 @@ Note: The texture pack consists of just 32 colors, which can be found in the <a 
 ---
 
 #### This Mod Is a Fork
-Zughy has closed contributions to Soothing 32 and indicated that they will likely remain so. Soothing32plus is a fork, made at his suggestion, in order to extend support for additional mods.
+Zughy has closed contributions to Soothing 32 and indicated that they will likely remain so permanently. Soothing32plus is a fork, made at his suggestion, in order to extend support for additional mods.
